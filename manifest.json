@@ -13,19 +13,23 @@
   "background": {
     "service_worker": "background.js"
   },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "spritesheet-t.png",
+        "armor/*",
+        "entity/*",
+        "assets/*",
+        "Tools/*"
+      ],
+      "matches": ["https://miniblox.online/*", "https://miniblox.io/*"]
+    }
+  ],
   "content_scripts": [
     {
       "matches": ["https://miniblox.online/*", "https://miniblox.io/*"],
       "js": ["main.js"],
       "run_at": "document_start"
-    }
-  ],
-  "web_accessible_resources": [
-    {
-      "resources": [
-        "Tools/*"
-      ],
-      "matches": ["https://miniblox.online/*", "https://miniblox.io/*"]
     }
   ]
 }
