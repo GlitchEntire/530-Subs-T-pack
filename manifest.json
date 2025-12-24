@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Not_Mini 200 Subs Texture Pack - Tools Only",
   "version": "1.0.0",
-  "description": "Custom MiniBlox texture pack: only tools are replaced for now.",
+  "description": "Custom MiniBlox texture pack: replaces all tools with custom textures for 200 subs!",
   "author": "Not_Mini",
   "icons": {
     "16": "icon.png",
@@ -28,12 +28,18 @@
       "resources": [
         "Tools/*"
       ],
-      "matches": ["https://miniblox.online/*", "https://miniblox.io/*"]
+      "matches": [
+        "https://miniblox.online/*",
+        "https://miniblox.io/*"
+      ]
     }
   ],
   "content_scripts": [
     {
-      "matches": ["https://miniblox.online/*", "https://miniblox.io/*"],
+      "matches": [
+        "https://miniblox.online/*",
+        "https://miniblox.io/*"
+      ],
       "js": ["main.js"],
       "run_at": "document_start"
     }
