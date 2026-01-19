@@ -26,7 +26,9 @@ Hoes
 
 # 📦 Installation (Chrome / Chromium Browsers)
 
-Download or clone this repository
+Download the zip by clicking code then download zip
+
+Extract the files
 
 Open Chrome and go to:
 
