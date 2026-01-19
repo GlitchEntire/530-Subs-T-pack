@@ -13,7 +13,9 @@ const URL_MAP = {
   "||miniblox.*textures/models/armor/iron_layer_1.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/iron_layer_1.png",
   "||miniblox.*textures/models/armor/iron_layer_2.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/iron_layer_2.png",
   "||miniblox.*textures/models/armor/leather_layer_1.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/leather_layer_1.png",
-  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/leather_layer_2.png"
+  "||miniblox.*textures/armor/leather_layer_1_overlay.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/leather_layer_1_overlay.png",
+  "||miniblox.*textures/models/armor/leather_layer_2.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/leather_layer_2.png",
+  "||miniblox.*textures/armor/leather_layer_2_overlay.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/refs/heads/main/armor/leather_layer_2_overlay.png"
 };
 
 let rules = [];
