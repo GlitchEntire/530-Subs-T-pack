@@ -24,18 +24,6 @@ Shovels
 
 Hoes
 
-# Materials:
-
-Wood
-
-Stone
-
-Iron
-
-Gold
-
-Diamond
-
 # 📦 Installation (Chrome / Chromium Browsers)
 
 Download or clone this repository
@@ -75,7 +63,7 @@ Some items may not change if MiniBlox updates or uses WebGL rendering
 
 Pack Owner & Creator: Not_Mini
 
-Inspiration & Reference: SmoothDude, joudaALT, Mystic
+Inspiration & Reference: SmoothDude, joudaALT, wytlines
 
 Game: MiniBlox
 
