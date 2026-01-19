@@ -33,7 +33,7 @@ const URL_MAP = {
   "||miniblox.*textures/entity/zombie_cowman/zombie_cowman.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/zombie_cowman.png",
   "||miniblox.*textures/entity/snowman/snowman.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/snowman.png",
   "||miniblox.*textures/entity/ghost/ghost.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/ghast/ghast.png",
-  "||miniblox.*textures/entity/ghast/ghast_shooting.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/ghast/ghast_shooting.png",
+  "||miniblox.*textures/entity/ghost/ghost_shooting.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/ghast/ghast_shooting.png",
   "||miniblox.*textures/entity/chest/ender.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/chest/ender.png",
   "||miniblox.*textures/entity/chest/normal.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/chest/normal.png",
   "||miniblox.*textures/entity/chest/normal_double.png": "https://raw.githubusercontent.com/notsenpai52013-bit/Not_Mini-200-Subs-Texture-Pack/main/entity/chest/normal_double.png"
